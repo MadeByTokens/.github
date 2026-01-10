@@ -1,4 +1,7 @@
-<img width="2048" height="2048" alt="MadeByTokens-logo" src="https://github.com/user-attachments/assets/d4e6317a-3d46-4749-9369-73ee1cce0ca9" />
+<p align="center">
+<img width="555" height="682" alt="MadeByTokens-logo-NEW-cropped" src="https://github.com/user-attachments/assets/d1111776-28c8-412e-b639-3922e553e2fd" />
+</p>
+
 
 <!--
 **Here are some ideas to get you started:**
