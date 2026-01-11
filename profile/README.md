@@ -1,5 +1,5 @@
 <p align="center">
-<img width="555" height="682" alt="MadeByTokens-logo-NEW-cropped" src="https://github.com/user-attachments/assets/d1111776-28c8-412e-b639-3922e553e2fd" />
+<img width="2784" height="1536" alt="MadeByTokens-large-banner-LATEST" src="https://github.com/user-attachments/assets/b9d6a2c3-f125-43bb-93f9-7f11a5dfcf39" />
 </p>
 
 
