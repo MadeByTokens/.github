@@ -1,3 +1,4 @@
+# Vibecoded. Prompted. Made for everyone.
 <p align="center">
 <img width="2784" height="1536" alt="MadeByTokens-large-banner-LATEST" src="https://github.com/user-attachments/assets/b9d6a2c3-f125-43bb-93f9-7f11a5dfcf39" />
 </p>
